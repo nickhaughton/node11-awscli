@@ -1,5 +1,5 @@
 # node11-awscli
-Node 11 with aws cli and python installed
+Node 11 with aws cli, python 3, and docker compose installed
 
 #### Image
 nhaughto/node11-awscli
